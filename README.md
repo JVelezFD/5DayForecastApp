@@ -2,10 +2,9 @@
 Created with JS, CSS, HTML
 
 
-This app will allow you to view a 5 day forcast for the users US city of choice. 
+This app will allow you to view a 5 day forcast for the US city of choice. 
 
 Link to App: https://jvelezfd.github.io/5DayForecastApp/
-
 
 
 Below is a screenshot of the working app:
