@@ -28,6 +28,8 @@ function searchCityAdd (){
 
 }
 
+historyBtn.addEventListener()
+
 
 
 
