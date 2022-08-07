@@ -28,10 +28,6 @@ function searchCityAdd (){
 
 }
 
-historyBtn.addEventListener()
-
-
-
 
 //User City Submit Button Function
 
@@ -46,15 +42,6 @@ userCityForm.addEventListener("submit", e => {
     citySearch = localStorage.getItem('citySearch') ? JSON.parse(localStorage.getItem('citySearch')) : [];
     citySearch.push(userCity);
     localStorage.setItem('citySearch', JSON.stringify(citySearch));
-
-   
-
-
-
-
-
-
-    
 
     //API call 
     document.querySelector("#current-weather").innerHTML="";
