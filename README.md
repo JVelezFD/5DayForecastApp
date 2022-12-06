@@ -17,7 +17,7 @@ Here is a working live demo : https://jvelezfd.github.io/5DayForecastApp/
 ## Site
 live website: https://jvelezfd.github.io/5DayForecastApp/
 
-## [Usage]
+## Usage
 All you will need to do is navigate to the live site above and enter your US city of choice.
 
 ### Development
